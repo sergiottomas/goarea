@@ -1,4 +1,4 @@
-package goarena
+package goarea
 
 //Pi is a numeric proportion defined by relation between
 //the perimeter of a circumference and its perimeter
